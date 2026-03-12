@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mDLD6nWRV94=",
   "success": true,
   "projectFilePath": "C:\\Users\\farra\\source\\repos\\WinFormsApp1\\WinFormsApp1.vbproj",
+=======
+  "dgSpecHash": "uKk26qQWAxo=",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\POSTTEST_1\\WinFormsApp1.vbproj",
+>>>>>>> main
   "expectedPackageFiles": [],
   "logs": []
 }

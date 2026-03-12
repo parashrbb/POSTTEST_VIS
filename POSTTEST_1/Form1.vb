@@ -3,7 +3,10 @@
     Dim totalIP As Double = 0
     Dim IPK As Double = 0
     Dim IPS As Double = 0
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
     Private Sub predikatIPK()
         If IPK >= 3.01 Then
             lblPredik.Text = "Sangat Memuaskan"
@@ -47,6 +50,9 @@
     End Sub
 
     Private Sub txtSmt_TextChanged(sender As Object, e As EventArgs) Handles txtSmt.TextChanged
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
     End Sub
 End Class

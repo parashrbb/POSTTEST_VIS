@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "9PKNrZv8OvI=",
@@ -5,4 +6,13 @@
   "projectFilePath": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\Pertemuan\\POSTTEST_2\\POSTTEST_2.vbproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "9PKNrZv8OvI=",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\Pertemuan\\POSTTEST_2\\POSTTEST_2.vbproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> main
 }

@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\farra\\source\\repos\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
       "projectPath": "C:\\Users\\farra\\source\\repos\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\farra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\farra\\source\\repos\\WinFormsApp1\\obj\\",
+=======
+      "projectUniqueName": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\POSTTEST_1\\WinFormsApp1.vbproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\POSTTEST_1\\WinFormsApp1.vbproj",
+      "packagesPath": "C:\\Users\\farra\\.nuget\\packages\\",
+      "outputPath": "D:\\Kuliah\\SEMESTER 4\\A. PRAKTIKUM\\Pemrograman Visual\\POSTTEST_1\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farra\\AppData\\Roaming\\NuGet\\NuGet.Config",
