@@ -1,0 +1,37 @@
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.exe
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.deps.json
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.runtimeconfig.json
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form1.resources
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form2.resources
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.GenerateResource.cache
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfoInputs.cache
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfo.vb
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.CoreCompileInputs.cache
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\refint\POSTTEST_4.dll
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.genruntimeconfig.cache
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\ref\POSTTEST_4.dll
+D:\Kuliah\BELAJAR\POSTTESTHABIBI\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Resources.resources
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.exe
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.deps.json
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.runtimeconfig.json
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\bin\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form1.resources
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Form2.resources
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.Resources.resources
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.AssemblyInfo.vb
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.vbproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.sourcelink.json
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.dll
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\refint\POSTTEST_4.dll
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.pdb
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\POSTTEST_4.genruntimeconfig.cache
+D:\Kuliah\SEMESTER 4\A. PRAKTIKUM\Pemrograman Visual\POSTTEST_VISS\POSTTEST_4\obj\Debug\net10.0-windows\ref\POSTTEST_4.dll
